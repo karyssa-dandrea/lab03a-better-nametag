@@ -10,7 +10,6 @@ const buttonPink = document.getElementById('button-pink');
 
 
 
-
 // initialize global state
 
 // set event listeners 
